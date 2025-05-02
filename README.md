@@ -3,7 +3,7 @@ This project is part of a benchmark / test suite used to check the different git
 
 ## Textual Description
 Expected Commits against integrity rules :
-* All Commits expect the ones that are done via the PR, i.e. commits updating the expected Result file.
+* All Commits expect the ones that are done via the PR, i.e. commits merged from feature-2 branch
 
 ## Changes Made In This Repo
 
